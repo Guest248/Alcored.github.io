@@ -42,7 +42,7 @@ header h1 {
  background-image:
  url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  background-size: cover;
- color: #0000cc;
+ color: #2f4f4f;
  height:500px;
  text-shadow: 0.25px 0.25px 0.25px #000000;
  
@@ -52,7 +52,7 @@ header h1 {
  font-size: 60px;	 
  font-weight: 700;
  margin: 0;
- color:  #ffffff;
+ color:  #2f4f4f;
 }
 
 .jumbotron h3 {
