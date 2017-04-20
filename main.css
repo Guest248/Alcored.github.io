@@ -18,6 +18,7 @@ align-items:center;
 
 header h1 {
  font-weight: 700;
+ padding: 0,20;
  margin: 0;
 color:#ffffff; 
  opacity:0.5;
@@ -31,7 +32,6 @@ color:#ffffff;
     }
  
  header p {
- padding: 0 20px;
  margin: 0;
  color:#ffffff;
   }
