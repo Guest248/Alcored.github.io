@@ -37,6 +37,8 @@ header h1 {
  
  header p {
   color:#000000;
+  margin:0;
+  padding: 0 20px;
   
 }
 
@@ -48,7 +50,6 @@ header h1 {
  background-image:
  url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  background-size: cover;
- opacity: 0.5; 
  color: #2f4f4f;
  height:500px;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
@@ -60,11 +61,13 @@ header h1 {
  font-weight: 700;
  margin: 0;
  color:#1a1a1a;
+  opacity:0.5;
 }
 
 .jumbotron h3 {
  margin: 0 0 20px;
  color:#1a1a1a;
+ opacity:0.5;
 
 }
 
@@ -94,13 +97,14 @@ opacity: 05;
 
 color:#0000cc;
 background-color: #ffffff;
+opacity:0.5;
 }
 
 .btn-secondary {
 background-color: #E8DFE0;
 color: #0000cc;
 margin: 0 0 30px;
-opacity:0.5;
+
 
 }
 
