@@ -3,9 +3,6 @@
    font-family: 'Robot', sans-serif;
    height:100%;
    width:100%;
-   background-image:url('https://www.imageupload.co.uk/images/2017/04/21/fondo1.jpg');
-   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
-   background-size:cover;/*this sets the image to fullscreen covering the whole screen*/  
 }
 
 header {
