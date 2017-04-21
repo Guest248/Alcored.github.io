@@ -52,6 +52,7 @@ header h1 {
  background-size: cover;
  color: #2f4f4f;
  height:500px;
+ width:auto;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
  
  }
