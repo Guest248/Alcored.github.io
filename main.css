@@ -21,7 +21,7 @@ header h1 {
  padding: 0 20px;
  margin: 0;
  color:#000000; 
- opacity:0.5;
+ 
  
 
  }
@@ -46,6 +46,7 @@ header h1 {
  background-image:
  url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  background-size: cover;
+ opacity: 0.5; 
  color: #2f4f4f;
  height:500px;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
