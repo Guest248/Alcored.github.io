@@ -43,7 +43,7 @@ color:#ffffff;
  display:flex;
  align-items: center;
  background-image:
- url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
+ url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg') opacity:0.5;
  background opacity: 0.5;
  background-size: cover;
  color: #2f4f4f;
