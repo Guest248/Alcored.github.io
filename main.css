@@ -88,7 +88,7 @@ border-radius: 2px;
 border: 0px;
 color: #0000cc;
 text-shadow: none;
-background-color:#FAFAFA;
+background-color:#F0F0F5;
 opacity: 0.5;
 
 
@@ -97,14 +97,15 @@ opacity: 0.5;
 .btn.btn-primary:hover {
 
 color:#0000cc;
-background-color: #FAFAFA;
-opacity:0.5;
+background-color: #F0F0F5; 
+ opacity:0.5;
 }
 
 .btn-secondary {
-background-color: #FAFAFA;
+background-color:#F0F0F5;;
 color: #0000cc;
 margin: 0 0 30px;
+opacity: 0,5;
 
 
 }
