@@ -84,13 +84,13 @@ width: 100%;
 }
 
 .btn.btn-primary {
-
+margin:1;
 border-radius: 2px;
 border: 0px;
 color: #0000cc;
 text-shadow: none;
 background-color:#FAFAFA;
-opacity: 05;
+opacity: 0.5;
 
 
 }
