@@ -89,7 +89,7 @@ border: 0px;
 color: #0000cc;
 text-shadow: none;
 background-color:#FFFFFF;
-opacity:0.5;
+
 
 
 
@@ -99,14 +99,14 @@ opacity:0.5;
 
 color:#0000cc;
 background-color: #FFFFFF; 
-
+opacity:0.5;
 }
 
 .btn-secondary {
 background-color:#FFFFFF;
 color: #0000cc;
 margin: 0 0 30px;
-
+opacity:0.5;
 
 
 }
