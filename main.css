@@ -5,7 +5,7 @@
    width:100%;
 }
 
-.container {
+.header {
  padding: 20px 0;
  width:90%;
  max-width:1000px;
@@ -56,7 +56,6 @@ header h1 {
  url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  background-size: cover;
  color: #2f4f4f;
- height:500px;
  width:1000px;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
  
