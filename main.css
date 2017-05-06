@@ -9,6 +9,7 @@
  padding: 20px 0;
  width:90%;
  max-width:1000px;
+ box-sizing:border-box;
  
  
 }
@@ -17,6 +18,7 @@ header.row,
 footer.row {
 display:flex;
 align-items:center;
+box-sizing:border-box;
 
 }
 
@@ -36,6 +38,7 @@ header h1 {
   padding-right: 0;
   margin-bottom: 0;
   list-style: none;
+  box-sizing:border-box;
  
   
     }
@@ -44,6 +47,7 @@ header h1 {
   color:#000000;
   margin:0;
   padding: 0 20px;
+  box-sizing:border-box;
   
 }
 
@@ -58,6 +62,7 @@ header h1 {
  color: #2f4f4f;
  width:1000px;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
+  box-sizing:border-box;
  
  }
  
@@ -67,18 +72,21 @@ header h1 {
  margin: 0;
  color:#1a1a1a;
   opacity:0.5;
+  box-sizing:border-box;
 }
 
 .jumbotron h3 {
  margin: 0 0 20px;
  color:#1a1a1a;
  opacity:0.5;
+ box-sizing:border-box;
 
 }
 
 section .row img {
 margin: 0 0 30px;
 width: 100%;
+box-sizing:border-box;
 }
 
 .col-md-6 {
@@ -119,6 +127,7 @@ footer {
 
 font-size: 12px;
 padding: 20px 0;
+  box-sizing:border-box;
 
 }
 
@@ -126,6 +135,7 @@ footer .col-sm-8 {
 
 display: flex;
 justify-content: flex-end;
+  box-sizing:border-box;
 
 
 }
@@ -140,5 +150,6 @@ display:flex;
 footer li img {
 width: 32px;
 height: 32px;
+  box-sizing:border-box;
 
 }
