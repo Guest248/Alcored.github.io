@@ -5,8 +5,13 @@
    width:100%;
 }
 
-header {
-padding: 20px 0;
+.container {
+ padding: 20px 0;
+ width:90%;
+ max-width:1000px;
+ display:flex;
+ align-items:center;
+ 
 }
 
 header.row,
