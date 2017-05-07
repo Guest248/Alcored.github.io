@@ -61,13 +61,13 @@ box-sizing:border-box;
  display:flex;
  align-items: center;
  background-image:
- url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
+ url('http://www.alcored.de/diapositivas/');
  background-size: cover;
  color: #2f4f4f;
  width:100%;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
   box-sizing:border-box;
- 
+  #url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  }
  
  .jumbotron h2 {
