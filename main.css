@@ -20,7 +20,6 @@ header.row,
 footer.row {
 display:flex;
 align-items:center;
-box-sizing:border-box;
 
 }
 
@@ -29,8 +28,7 @@ header h1 {
  padding: 0 20px;
  margin: 0;
  color:#000000; 
-box-sizing:border-box;
- 
+
  
  
 
@@ -42,7 +40,7 @@ box-sizing:border-box;
   padding-right: 0;
   margin-bottom: 0;
   list-style: none;
-  box-sizing:border-box;
+  
  
   
     }
@@ -90,7 +88,6 @@ box-sizing:border-box;
 section .row img {
 margin: 0 0 30px;
 width: 100%;
-box-sizing:border-box;
 }
 
 .col-md-6 {
