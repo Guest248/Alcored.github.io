@@ -51,7 +51,7 @@ box-sizing:border-box;
   color:#000000;
   margin:0;
   padding: 0 20px;
-  box-sizing:border-box;
+  
   
 }
 
@@ -95,7 +95,7 @@ box-sizing:border-box;
 
 .col-md-6 {
  margin: 0 0 30px;
- box-sizing:border-box;
+ 
 }
 
 .btn.btn-primary {
@@ -104,7 +104,7 @@ border: 0px;
 color: #0000cc;
 text-shadow: none;
 background-color:#FFFFFF;
-box-sizing:border-box;
+
 
 
 
@@ -115,7 +115,7 @@ box-sizing:border-box;
 color:#0000cc;
 background-color: #FFFFFF; 
 opacity:0.5;
- box-sizing:border-box;
+ 
 }
 
 .btn-secondary {
@@ -123,7 +123,7 @@ background-color:#FFFFFF;
 color: #0000cc;
 margin: 0 0 30px;
 opacity:0.5;
- box-sizing:border-box;
+ 
 
 
 }
@@ -133,7 +133,7 @@ footer {
 
 font-size: 12px;
 padding: 20px 0;
-  box-sizing:border-box;
+
  
 
 }
@@ -142,7 +142,7 @@ footer .col-sm-8 {
 
 display: flex;
 justify-content: flex-end;
-  box-sizing:border-box;
+
 
 
 }
@@ -150,14 +150,11 @@ justify-content: flex-end;
 footer ul {
 list-style: none;
 display:flex;
- box-sizing:border-box;
-
-
 }
 
 footer li img {
 width: 32px;
 height: 32px;
-  box-sizing:border-box;
+  
 
 }
