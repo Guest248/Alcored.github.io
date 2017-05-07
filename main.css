@@ -64,7 +64,7 @@ box-sizing:border-box;
  url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  background-size: cover;
  color: #2f4f4f;
- width:1000px;
+ width:100%;
  text-shadow: 0.25px 0.25px 0.25px #ffffff;
   box-sizing:border-box;
  
@@ -72,11 +72,10 @@ box-sizing:border-box;
  
  .jumbotron h2 {
  font-size: 40px;	 
- font-weight:500;
  margin: 0;
  color:#1a1a1a;
  opacity:0.5;
-  box-sizing:border-box;
+ box-sizing:border-box;
 }
 
 .jumbotron h3 {
