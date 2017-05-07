@@ -58,8 +58,6 @@ header h1 {
  .jumbotron {
  display:flex;
  align-items: center;
- background-image:
- url('https://www.imageupload.co.uk/images/2017/04/07/cubos.jpg');
  background-size: cover;
  color: #2f4f4f;
  width:100%;
