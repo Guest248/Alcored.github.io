@@ -34,6 +34,53 @@ is our beloved world wide web.
 
  </br>
 You May have hear  of the most common network protocols on the internet era things like HTTP, TCP/ IP etc. Lets break them down into basics.
+
+</br> </h3>
+
+<h1>IP Internet Protocol</h1>
+
+<h3>   Think of this is a fundamental layer of protocols. It is the basic protocol that instructs us on how almost all communication
+ across internet networks must be implemented.</br>
+
+Messages over IP are often communicated in packets, which  are small bundles of information(2ex 16bytes). Each packethas an essential
+structure made up of two components: The header and the Data.
+
+The Header contains "meta" data about the packet and its data. This metadata includes information such as the IP address of the source (where the packet cames from) and
+the destination IP address (destination of the packet), Clearly  this is fundamental to being able to send information from one point
+to another - you need the from and to addresses.
+
+
+The other protocols we will consider in this post are built on top of IP, just like your favourite software language has libraries 
+and frameworks built on the top of it.
+
+<h1> TCP- Transmission Control Protocol </h1>
+
+</br> </br>
+<h3> TCP is a utility built on top of IP .</br>
+TCP was created  to solve a problem with IP. Data over IP is typically sent in multiple packets
+because each packet is farily small (2exp16bytes). Multiple packets can resultin (A) lost or dropped
+packets and (B) disordered packets, thus corruption the transmitted data. TCP solves both of these by guaranteeing
+transmission of packet in order waty </h3>  </br>
+
+
+Being built on the top of the IP ,the packet has a header called TCP  header in addition to the IP header.This TCP 
+header contains information about the orderging of packets, and the number of packets and so on. This ensures that the data 
+is reliably received at the other end, It is generally referredto as TCP/IP because it is built on the top of the IP.
+
+TCP needs to establish a connection between source and destination before it transmits the packets, and it does via 
+a handshake. This connection itself is established using packets where the source informs the destination that it wants
+to open a connection , and the destination says OK, and the conection is opened.
+
+This, in effect. is what happens when a server "listens" a port - just before it starts  to listen  there
+is a handshake, and then the conection is opened (listening starts). Simiarly, one sends the other a message that is about
+to close the connection, and that ends the connection.
+
+
+
+
+
+
+
 </h3>
 </body>
 </html>
