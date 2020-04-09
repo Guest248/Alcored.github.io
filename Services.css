@@ -3,6 +3,7 @@ body {
     background-image:url("consultant.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    background-position:50% 100%;
 }
 .opacity{
    background-color:rgb(255,0,0);
